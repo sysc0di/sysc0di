@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Codingewer/Yücel Atlı)</h1>
 <h3 align="center">A Full Stack Developer from Türkiye</h3>
 
-- 💬 Ask me about **Go, React, Linux and more**
+- 💬 Ask me about **Go, React, Linux, Cloud Servers, Nginx and more**
 
 - 📫 How to reach me **yatli5645@gmail.com**
 
