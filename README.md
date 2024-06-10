@@ -9,7 +9,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingewer&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingewer&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingewer&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingewer&theme=github_dark&utcOffset=3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingewer&theme=github_dark)
 
