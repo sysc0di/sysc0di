@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Codingewer/Yücel Atlı</h1>
+<h1 align="center">Hi 👋, I'm sysc0di/Yücel Atlı</h1>
 <h3 align="center">A Full Stack Developer from Türkiye</h3>
 
 - 💬 Ask me about **Go, React, Linux, Cloud Servers, Nginx and more**
 
 - 📫 How to reach me **yatli5645@gmail.com**
-
-- 📄 Know about my experiences [CV](https://codingewer.netlify.app/#cv)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sysc0di&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sysc0di&theme=github_dark)
