@@ -7,10 +7,10 @@
 
 - 📄 Know about my experiences [CV](https://codingewer.netlify.app/#cv)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingewer&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingewer&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingewer&theme=github_dark&utcOffset=3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingewer&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sysc0di&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sysc0di&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sysc0di&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sysc0di&theme=github_dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
