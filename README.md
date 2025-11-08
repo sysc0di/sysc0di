@@ -5,6 +5,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yücel+Atlı!+👋;Full+Stack+Developer+💻;Code.+Coffee.+Repeat.+☕;Welcome+to+My+GitHub+🚀" alt="Typing SVG" />
 </h1>
+---
+- 💬 Ask me about **Go, React, Linux, Cloud Servers, Nginx and more**
+
+- 📫 How to reach me **yatli5645@gmail.com**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sysc0di/sysc0di/output/pacman-contribution-graph-dark.svg">
@@ -12,10 +16,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sysc0di/sysc0di/output/pacman-contribution-graph.svg">
 </picture>
 
----
-- 💬 Ask me about **Go, React, Linux, Cloud Servers, Nginx and more**
-
-- 📫 How to reach me **yatli5645@gmail.com**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sysc0di&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
