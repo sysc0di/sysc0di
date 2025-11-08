@@ -4,12 +4,6 @@
 - 💬 Ask me about **Go, React, Linux, Cloud Servers, Nginx and more**
 
 - 📫 How to reach me **yatli5645@gmail.com**
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sysc0di&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sysc0di&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sysc0di&theme=github_dark&utcOffset=3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sysc0di&theme=github_dark)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yucelatli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yucelatli" height="30" width="40" /></a>
