@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm sysc0di/Yücel Atlı</h1>
-<h3 align="center">A Full Stack Developer from Türkiye</h3>
+<!--
+🔥 Yücel Atlı | Full Stack Developer | 
+-->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yücel+Atlı!+👋;Full+Stack+Developer+💻;Code.+Coffee.+Repeat.+☕;Welcome+to+My+GitHub+🚀" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+</p>
+
+---
 - 💬 Ask me about **Go, React, Linux, Cloud Servers, Nginx and more**
 
 - 📫 How to reach me **yatli5645@gmail.com**
